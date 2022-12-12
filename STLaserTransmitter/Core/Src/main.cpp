@@ -79,7 +79,7 @@ int main(void)
 	int32_t CH1_DC = 0;
 	uint8_t errMsg[] = "Fail init";
 	uint8_t passMsg[] = "Successful init";
-	uint8_t msgRX[16] = "Fuck you pussy?";
+	uint8_t msgRX[16] = "Transmit test.";
   /* USER CODE END 1 */
 
   /* MCU Configuration--------------------------------------------------------*/
